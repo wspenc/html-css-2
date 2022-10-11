@@ -1,0 +1,55 @@
+::-webkit-scrollbar {
+    display: none;
+}
+
+html, body{
+    margin: 0;
+}
+header{
+    background-color: grey;
+    padding: 50px;
+    text-align: center;
+    display: block;
+    margin: 0;
+    width: 1900px;
+    margin-left: -5rem;
+    margin-top: -.5rem;
+    height: 20px;
+}
+
+div{
+    width: 4px;
+    height: 360px;
+    background-color: white;
+    margin: 6px 0;
+}
+
+.right{
+    background-color:#A0A0A0;
+    float: right;
+    width: 5%;
+    padding: 10px;
+    height: 830px;
+    margin-top: -23.24rem;
+}
+.left{
+    background-color:#A0A0A0;
+    float: left;
+    width: 5%;
+    padding: 10px;
+    height: 830px;
+    margin-top: -23.24rem;
+}
+
+
+footer{
+    background-color: black;
+    padding: 50px;
+    text-align: center;
+    display: block;
+    margin: 0;
+    width: 1900px;
+    margin-left: -5rem;
+    margin-top: 22.75rem;
+    height: 20px;
+}

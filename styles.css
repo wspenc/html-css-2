@@ -1,7 +1,9 @@
+
 body{
     font-family: Arial, Helvetica, sans-serif;
     color: purple;
     overflow-x: hidden;
+    margin: 0;
 }
 
 header{
